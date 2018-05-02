@@ -1,2 +1,2 @@
-# Python_training
-My personal traning
+## Python_training
+My personal training
